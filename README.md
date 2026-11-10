@@ -85,14 +85,6 @@ motto       = "There is no place like 127.0.0.1, but lower ping is better."
 
 ---
 
-### 🃏 Daily Dev Chuckle
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
-</div>
-
----
-
 <div align="center">
   <sub>Remember: If it works on your machine, we'll just ship your machine. 📦</sub>
   <br/>
