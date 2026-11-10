@@ -10,7 +10,7 @@
 <!-- ================= ANIMATED TYPING HEADER ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F472B6&center=true&vcenter=true&width=580&lines=✧+Hey+there,+I'm+KnapQiProton!+୨୧;🌸+Certified+Yuri+%2F+GL+Coder+₊˚⊹;🧁+I+ate+the+code.+(nom+nom+nom);🎀+Turning+packets+%26+caffeine+into+soft+magic!;(˶˃+ᵕ+˂˶)+If+it+compiles,+it's+officially+cute!+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=23&pause=1000&color=F472B6&center=true&vcenter=true&width=550&lines=Hey%20there%2C%20I%27m%20KnapQiProton%21%20%F0%9F%8C%B8%3BCertified%20Yuri%20%2F%20GL%20Coder%20%F0%9F%92%BB%3BI%20ate%20the%20code...%20nom%20nom%20%F0%9F%8D%B0%3BTurning%20packets%20%26%20caffeine%20into%20magic%20%E2%9C%A8%3BIf%20it%20compiles%2C%20it%27s%20officially%20cute%21%20%F0%9F%8E%80" alt="Typing SVG" />
   </a>
 </div>
 
