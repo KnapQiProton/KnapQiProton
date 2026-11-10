@@ -8,7 +8,7 @@
 <!-- ================= ANIMATED TYPING HEADER ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Hey+there,+I'm+KnapQiProton!+⚡;I+ate+the+code.;Turning+packets+and+caffeine+into+software.;Fixing+1+bug,+spawning+4+new+ones.;If+it+compiles,+ship+it.+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Hey+there,+I'm+KnapQiProton!+⚡;Certified+Yuri+%2F+GL+Coder+🌸;I+ate+the+code.;Turning+packets+and+caffeine+into+software.;Fixing+1+bug,+spawning+4+new+ones.;If+it+compiles,+ship+it.+🚀" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Class-Yuri%20%2F%20GL%20Coder%20🌸-FF69B4?style=for-the-badge" alt="Yuri / GL Coder" />
   <a href="https://github.com/KnapQiProton?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse%20My%20Junk-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Send%20Memes-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Ping%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -29,12 +30,14 @@
 ```toml
 [user]
 name        = "KnapQiProton"
+class       = "Yuri / GL Coder 🌸"
 status      = "Chewing on memory leaks..."
 hunger_mode = "I ate the code 🍽️"
 specialty   = ["Python Sorcery", "Network Optimization", "Registry Tweaks"]
 motto       = "There is no place like 127.0.0.1, but lower ping is better."
 ```
 
+- 🌸 **Vibe:** Certified Yuri / Girls' Love (GL) coder & connoisseur.
 - 🍕 **Current Status:** Swallowing codebases whole.
 - ⚡ **Superpower:** Optimizing network stacks and squeezing every millisecond out of Windows latency.
 - 🔬 **Currently cooking:** System utilities, custom GUIs, and things that require `Run as Administrator`.
@@ -93,5 +96,5 @@ motto       = "There is no place like 127.0.0.1, but lower ping is better."
 <div align="center">
   <sub>Remember: If it works on your machine, we'll just ship your machine. 📦</sub>
   <br/>
-  <sub>© <b>KnapQiProton</b> • Fueled by caffeine, curiosity, and eaten syntax.</sub>
+  <sub>© <b>KnapQiProton</b> • Fueled by caffeine, curiosity, yuri vibes, and eaten syntax.</sub>
 </div>
